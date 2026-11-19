@@ -7,4 +7,5 @@
 - 2026-11-19: Extended `spec.md` with local material and section databases, elastic modulus `E`, moment of inertia `I`, section modulus `S`, proportional-limit checks, beam highlighting, and related validation cases. Status: worked.
 - 2026-11-19: Moved load controls beneath the beam and added numeric position/start/end inputs plus an Add load action alongside click/drag placement. Verified the app loads in-browser and the 20-ft W12×26 example returns 50.00 kip-ft and 0.609 in. Status: worked.
 - 2026-11-19: Aligned the beam-load entry row, removed triangular-load support, added a physically scaled deflected shape to the beam model, and displayed cross-sectional area. Status: worked.
+- 2026-11-19: Published the committed project to public GitHub repository `23pgoebel/beam_app`; GitHub Pages setup is in progress. Status: worked.
 - 2026-11-19: Committed the completed beam app and prepared it for public GitHub Pages hosting. Status: in progress.
